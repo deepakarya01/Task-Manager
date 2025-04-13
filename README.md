@@ -34,18 +34,18 @@ A full-stack **Task Manager** built with the **MERN** stack (MongoDB, Express, R
 
 ---
 
-### Installation
-## Backend setup
+## Installation
+### Backend setup
 - cd backend
 - npm install
 - nodemon server
 
-## Frontend setup
+### Frontend setup
 - cd ../frontend
 - npm install
 - npm run dev
 
-# 🔐 Environment Variables
+### 🔐 Environment Variables
 - PORT=1000
 - MONGO_URI=your_mongodb_uri
 - JWT_SECRET=your_jwt_secret

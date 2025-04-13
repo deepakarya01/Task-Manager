@@ -34,13 +34,13 @@ A full-stack **Task Manager** built with the **MERN** stack (MongoDB, Express, R
 
 ---
 
-## Installation
-# Backend setup
+### Installation
+## Backend setup
 - cd backend
 - npm install
 - nodemon server
 
-# Frontend setup
+## Frontend setup
 - cd ../frontend
 - npm install
 - npm run dev

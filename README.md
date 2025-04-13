@@ -1,5 +1,7 @@
 # 📝 Task Manager App
 
+![Image](https://github.com/user-attachments/assets/a8aed225-98e9-4ef7-876d-48636474a00b)
+
 A full-stack **Task Manager** built with the **MERN** stack (MongoDB, Express, React, Node.js) that allows users to manage their daily tasks efficiently. This app includes user authentication, task CRUD operations, inline editing, and a clean, responsive UI.
 
 ---
